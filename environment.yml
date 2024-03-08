@@ -1,0 +1,9 @@
+name: z0-fp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - uproot
+  - numpy
+  - scipy
+  - matplotlib
